@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Custom Admin Interface\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-11 23:16+0000\n"
+"PO-Revision-Date: 2019-12-11 23:16+0000\n"
+"Last-Translator: usuario <suporte@woocommerce.com.br>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: wp-custom-admin-interface.php:128
+msgid "A Message from the Developer"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Customise the WordPress admin and login interfaces and customize the "
+"WordPress dashboard menu."
+msgstr ""
+
+#: wp-custom-admin-interface.php:113
+msgid ""
+"Customise the Wordpress admin interface more with Custom Admin Interface Pro."
+" The plugin offers the ability to create multiple designs for various "
+"modules and comes with a revision system so you can easily restore changes. "
+"The plugin has been redesigned from the ground up and comes with priority "
+"email support."
+msgstr ""
+
+#: wp-custom-admin-interface.php:1742
+msgid "Everyone"
+msgstr ""
+
+#: wp-custom-admin-interface.php:1744
+msgid "except"
+msgstr ""
+
+#: wp-custom-admin-interface.php:128
+msgid ""
+"Hi there! Thanks for using my plugin. I wrote this plugin because at the "
+"moment I use a few different little plugins to customise the admin interface "
+"and I thought it would be great to put it all into one and make things easy "
+"to use. I appreciate that customising the WordPress admin is a bit of a "
+"pandora's box as everyone has their own way they like to do things! If you "
+"like the plugin please consider rating it"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.northernbeacheswebsites.com.au"
+msgstr ""
+
+#: wp-custom-admin-interface.php:1714
+msgid "Implement this for"
+msgstr ""
+
+#: wp-custom-admin-interface.php:114
+msgid "Learn more"
+msgstr ""
+
+#. Author of the plugin
+msgid "Martin Gibson"
+msgstr ""
+
+#: wp-custom-admin-interface.php:1734
+msgid "No-one"
+msgstr ""
+
+#: wp-custom-admin-interface.php:156
+msgid "Save All Settings"
+msgstr ""
+
+#: wp-custom-admin-interface.php:230
+msgid "Settings"
+msgstr ""
+
+#: wp-custom-admin-interface.php:130
+msgid ""
+"Want to customise the WordPress admin interface more. Check out <a "
+"href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">"
+"Custom Admin Interface Pro</a> to create multiple menus, toolbars, notices, "
+"admin/frontend code, dashboard widgets, hidden plugins, hidden metaboxes, "
+"hidden sidebars and hidden users and much more! Learn more <a href=\"https:"
+"//northernbeacheswebsites.com.au/custom-admin-interface-pro/\">here</a>."
+msgstr ""
+
+#: wp-custom-admin-interface.php:2108
+msgid "What's new"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Custom Admin Interface"
+msgstr ""

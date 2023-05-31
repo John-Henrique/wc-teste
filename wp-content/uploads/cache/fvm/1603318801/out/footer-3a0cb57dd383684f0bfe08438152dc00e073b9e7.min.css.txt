@@ -1,0 +1,3 @@
+PROCESSED on Sun, 25 Oct 2020 16:19:57 +0000
+/wp-content/plugins/woocommerce-extra-checkout-fields-for-brazil/assets/css/frontend/frontend.css
+PROCESSED from https://woocommerce.com.br/demonstracao/loja/demonstracao/loja/checkout/

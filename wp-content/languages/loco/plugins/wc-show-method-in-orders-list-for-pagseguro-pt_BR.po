@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-11 23:22+0000\n"
+"PO-Revision-Date: 2019-12-11 23:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "dimdavid"
+msgstr "dimdavid"
+
+#. Description of the plugin
+msgid ""
+"Este plugin atualiza o método de pagamento junto com a descrição do gateway "
+"utilizado na listagem de pedidos após a confirmação do pagamento."
+msgstr ""
+"Este plugin atualiza o método de pagamento junto com uma descrição de fazer "
+"gateway utilizado na listagem de pedidos após a confirmação fazer o "
+"pagamento."
+
+#. Author URI of the plugin
+msgid "http://dimdavid.wordpress.com/"
+msgstr "http://dimdavid.wordpress.com/"
+
+#. URI of the plugin
+msgid ""
+"https://wordpress.org/plugins/wc-show-method-in-orders-list-for-pagseguro/"
+msgstr ""
+"https://wordpress.org/plugins/wc-show-method-in-orders-list-for-pagseguro/"
+
+#. Name of the plugin
+msgid "WC Show Method in Orders List for PagSeguro"
+msgstr "WC Método de apresentação em Lista de Pedidos para o PagSeguro"

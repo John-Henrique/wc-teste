@@ -1,0 +1,134 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+
+/* Posição helper no WooCommerce */
+.woocommerce-embed-page #screen-meta, .woocommerce-embed-page #screen-meta-links {
+    top: 40px;
+}
+
+/* Gutenslider */
+div.fs-notice.updated, div.fs-notice.success, div.fs-notice.promotion, 
+
+/* Botiga */
+.botiga-notice, 
+
+/* HFCM */
+#hfcm-message,
+
+.wcpdf-extensions-ad, 
+
+/* visual composer */
+#vc_license-activation-notice, 
+
+/* dokan license */
+.notice.error.dokan-license-notice, 
+
+/* ajuda dokan */
+#toplevel_page_dokan ul li:nth-child(12),
+
+/* plugins adicionais urna */
+#setting-error-urna,
+
+/* notificacao pagseguro */
+.updated.inline.woocommerce-message {
+	display:none;
+}
+
+
+/* 
+tabs do WooCommerce
+*/
+.nav-tab {
+    border: 1px solid #2d3c50;
+    background: #2d3c50;
+    color: #eee;
+    border-radius: 5px 5px 0px 0px;
+}
+.wrap .add-new-h2:hover, .wrap .page-title-action:hover, .tablenav .tablenav-pages a:hover, .tablenav .tablenav-pages a:focus {
+    /*
+    color: #fff;
+    background-color: #2d3c50;
+    /*
+    background: #f1f1f1;
+    border-color: #016087;
+    color: #016087;
+    */
+}
+.wrap .add-new-h2:hover, .wrap .page-title-action:hover {
+    color: #fff;
+    background-color: #2d3c50;
+}
+
+
+/**
+CSS do dashboard de vendas
+*/
+#lf_dados_vendas .lf_status li {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0;
+    /*border-top: 1px solid #ececec;*/
+    color: #aaa;
+}
+li.vendas-ontem, li.vendas-mes-anterior {
+    border-left: 1px solid #ececec;
+}
+
+li.vendas-mes-atual, li.vendas-mes-anterior {
+    border-top: 1px solid #ececec;
+}
+
+
+/**
+Corrigindo o posicionamento dos botões ajuda e opções de tela
+*/
+/*
+.woocommerce-feature-enabled-activity-panels, 
+.woocommerce-feature-enabled-analytics, 
+.woocommerce-feature-enabled-coupons, 
+.woocommerce-feature-enabled-customer-effort-score-tracks, 
+.woocommerce-feature-enabled-homescreen, 
+.woocommerce-feature-enabled-marketing, 
+.woocommerce-feature-enabled-mobile-app-banner, 
+.woocommerce-feature-enabled-onboarding, 
+.woocommerce-feature-enabled-remote-inbox-notifications, 
+.woocommerce-feature-enabled-remote-free-extensions, 
+.woocommerce-feature-enabled-payment-gateway-suggestions, 
+.woocommerce-feature-enabled-shipping-label-banner, 
+.woocommerce-feature-enabled-store-alerts, 
+.woocommerce-feature-enabled-transient-notices, 
+*/
+.woocommerce-page #screen-meta-links,
+.woocommerce-embed-page #screen-meta, .woocommerce-embed-page #screen-meta-links {
+    top: -20px;
+}
+
+/**
+Adiciona imagem com cantos arrendondados, circulares
+*/
+.column-author img, .column-comment .comment-author img, .column-username img {
+    border-radius:100%;
+}
+.wp-admin.woocommerce-page table.wp-list-table tr.type-product td.thumb img {
+    border-radius:15%;
+}
+#postimagediv .inside img {
+    border-radius: 2%;
+}
+
+/**
+ TEMA BOTIGA
+
+ remove os blocos
+*/
+.thd-hero, 
+.thd-header, 
+.thd-panel-tabs:nth-child(2) {
+    display: none;
+}
